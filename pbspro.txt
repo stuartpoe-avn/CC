@@ -1,6 +1,0 @@
-AdType = "Cloud.Project"
-Version = "2.0.17"
-ProjectType = "Scheduler"
-Url = "https://github.com/wolfgang-desalvador/cyclecloud-pbspro/releases/2.0.17"
-AutoUpgrade = false
-Name = "pbspro"
